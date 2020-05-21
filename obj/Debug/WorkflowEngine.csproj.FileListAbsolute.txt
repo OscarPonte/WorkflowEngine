@@ -1,0 +1,7 @@
+C:\Users\Cassius\Desktop\GitHubRepo\WorkflowEngine\obj\Debug\WorkflowEngine.csprojAssemblyReference.cache
+C:\Users\Cassius\Desktop\GitHubRepo\WorkflowEngine\obj\Debug\WorkflowEngine.csproj.CoreCompileInputs.cache
+C:\Users\Cassius\Desktop\GitHubRepo\WorkflowEngine\bin\Debug\WorkflowEngine.exe.config
+C:\Users\Cassius\Desktop\GitHubRepo\WorkflowEngine\bin\Debug\WorkflowEngine.exe
+C:\Users\Cassius\Desktop\GitHubRepo\WorkflowEngine\bin\Debug\WorkflowEngine.pdb
+C:\Users\Cassius\Desktop\GitHubRepo\WorkflowEngine\obj\Debug\WorkflowEngine.exe
+C:\Users\Cassius\Desktop\GitHubRepo\WorkflowEngine\obj\Debug\WorkflowEngine.pdb
